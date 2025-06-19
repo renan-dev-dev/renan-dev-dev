@@ -2,10 +2,11 @@
 
 - Aprimoramento em JavaScript
 - Conceitos de UI/UX
-- Futuramente: frameworks como React
 - HTML5: Estruturação de conteúdo web
 - CSS3: Estilização e design responsivo
 - JavaScript: Interatividade e funcionalidades dinâmicas
+- React.js: Desenvolvimento de interfaces modernas com componentes reutilizáveis
+- Tailwind CSS: Abordagem funcional para estilização eficiente e adaptável
 
 
 ---
